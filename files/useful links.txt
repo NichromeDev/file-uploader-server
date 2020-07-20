@@ -1,0 +1,54 @@
+\\\\ JS
+https://proglib.io/p/33-regexp/
+http://numeraljs.com
+http://numbers.github.io/index.html#
+http://docs.mathquill.com/en/latest/Api_Methods/#movetoleftend-movetorightend
+https://matthew.wagerfield.com/parallax/
+https://plotly.com/javascript/getting-started/
+
+\\\\ SITES
+https://developers.google.com/speed/pagespeed/insights/
+https://htmlweb.ru/html/symbols.php
+https://experiments.withgoogle.com/collection/chrome
+https://a.pr-cy.ru/tools/traffic/?domain=hentasis1.top
+https://bit.dev/components?labels=react&q=uploader&__cf_chl_jschl_tk__=770d317d758eb8b55ecdae7edab250b228ada526-1593685884-0-AQzRFCBrvv56jyZKVlOyVwQXhmrI3THu1HykA8qHistIsyMnWhWL2okmxjjaeSQvjpdjWbIpqHho9bwanUX1v6yeY7ZNAD9JdLnQuN5SNPlKp5O6Jc_tNP9SD9xLHIldeTTysJBZDG66iT0ZRXl2FWSFKp5LcIlE61vH51M-N9QDfJk90ixeysNd37sW8zAfV5gjPmOVB6JSh-4wxdQvEtnYpLzE4Dqf5XRy7f610g85zmJScXGc9wnxgPwydV_Ba4WZpE6nJ1WW-j2nu-4IrJ1XtVUkxTE_2yXfQST3F6VumRaIA5y9WgTcAEERMiJLcdCHa_PAnO2BHqAalNPBGdPMN97HPa1bfq7rZdxUBJ3cQ-uCoKZFn6F1fZPj01WqyQ
+
+\\\\ SERVER ADMINISTRATION
+https://fooobar.com/questions/148505/how-to-kill-a-currently-using-port-on-localhost-in-windows
+
+\\\\ REACT
+
+\\\\ REACT NATIVE
+https://snack.expo.io
+https://www.flaticon.com
+
+\\\\ VUE
+https://demos.creative-tim.com/vue-material-dashboard/?_ga=2.77518355.727697336.1592857440-74263381.1590060830&__cf_chl_captcha_tk__=a97550193e96eedf8d4832a6853d37b4b35c3d2f-1592857461-0-Af2-Js9pHIuSgROgMfyE4QqrCVQpCKVSLw9kllS5KuHdsAhERZ9zlmPAbvKKvvbO9s9VyNbLxI4GRns1JEZr4-pGUdQKZMs0p7Gionovoozvf1engv8BfwTDWLCira_BVSvLhmjV7wpHdeA6SdLhf0IT-p_qUeHdjpcMLr7WpPuf5zCEnyF8ain1rjmNBQOlQFDKugn4SolD4LkxIQVp6Rjx_SdW_SGlT9iisld-ui0sZcmstI-4T57aUAIStsBXNjMQN6Ew-L3dIlLV5tP9z8vyCACp-BO6ui02Ee7SNS_0fdazrx5w1WoSMbFTkAhqbgmr9ASBpdACRfTRRdcfjgyENDOe4BHnzQyjRE8poFeRFgj1tnq5wg_4G5jn0Ws2O8bfuuwjNNxf34gwGKIfV4JDnt-50ksX9NgGy17ph5_nrRkycSQ__scexozQtMT_jt8lUvTO18wmlfemm8KTpAU2HlMtzcH_vyOet687BF4Gzm-IO3baR5GUjoRwtRWQ2CEQq0n7eJYvIS3HC7HIdRA9Q6id-XczvTEduRHflLXDtaEjSCy3Ey-DMyeh6LnK4lTSmn-5G_-fXhDitv5Q3G_Q_rFb1NpseKC8CSXru5x-qVHyHecDbFnEG66rlFdzj6KsNviEeKKvpA6LzWTovlg#/dashboard
+https://www.vuemastery.com/account/dashboard/
+
+\\\\ DESIGN
+https://encycolorpedia.ru
+https://mdbootstrap.com/docs/jquery/getting-started/download/
+https://freefrontend.com/css-loaders/
+https://eva.design
+https://demos.creative-tim.com/
+
+\\\\ TOOLS AND PLUGINS
+https://app.prntscr.com/ru/
+https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=ru
+
+\\\\VSCODE
+https://nikomedvedev.ru/other/vscodeshortcuts/hotkeys.html
+
+\\\\ GIT
+https://stackoverflow.com/questions/15467507/trying-to-commit-git-files-but-getting-fatal-lf-would-be-replaced-by-crlf-in
+
+\\\\ LANGUAGES
+https://www.memrise.com/course/332202/12527/53/?action=next
+
+\\\\ SCIENCE
+https://www.overleaf.com
+
+\\\\ ICONS
+https://konpa.github.io/devicon/
+

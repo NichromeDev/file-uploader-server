@@ -1,0 +1,26 @@
+// UI framework
+https://material-ui.com/ru/
+https://ant.design
+https://semantic-ui.com
+SASS / styled-components
+
+//JS-libs
+Redux
+Redux-thunk
+Socket.io
+Axios
+Lodash
+Date-fns
+Formik
+React-Router
+React-styleguidist
+classnames
+Yup
+Moment
+react-sweapable-veiw
+
+//server
+Nodejs(expressjs)
+mongoDB(mongoose
+Multer
+Passport
